@@ -1,6 +1,6 @@
 # StreamFlare
 
-StreamFlare is a video calling chat application based on WebRTC technology. It allows users to make real-time video calls between devices, including Android phones and web browsers. This repository contains the Flutter code for both the Flutter web version hosted on [stream-flare.vercel.app](https://stream-flare.vercel.app/) and the Flutter app for Android devices.
+StreamFlare is a video calling chat application based on WebRTC technology. It allows users to make real-time video calls between devices, including Android phones and web browsers. This repository contains the Flutter code for both the Flutter web version hosted on [streamflare.vercel.app](https://streamflare.vercel.app/) and the Flutter app for Android devices.
 
 ## Features
 
