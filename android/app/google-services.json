@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "138538513021",
-    "project_id": "flutter-webrtc-83131",
-    "storage_bucket": "flutter-webrtc-83131.appspot.com"
+    "project_number": "315148119581",
+    "project_id": "streamflare-67e84",
+    "storage_bucket": "streamflare-67e84.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:138538513021:android:a529543b1bcb4409cb7714",
+        "mobilesdk_app_id": "1:315148119581:android:ba846318d39fc97784a0f4",
         "android_client_info": {
           "package_name": "dev.flutterexplained.stream_flare"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB76QuGT15sDXy2mJnVDyBCD_EIOFXvsAU"
+          "current_key": "AIzaSyCqg7qxU0dRoV7V1vJzpAGZGgm3ka3IcBg"
         }
       ],
       "services": {

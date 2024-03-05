@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCcEHPSgfOvAkWjojWaNYP1DDwLVO8JkzI',
-    appId: '1:138538513021:web:5fe1dc3dc5b6fa5bcb7714',
-    messagingSenderId: '138538513021',
-    projectId: 'flutter-webrtc-83131',
-    authDomain: 'flutter-webrtc-83131.firebaseapp.com',
-    storageBucket: 'flutter-webrtc-83131.appspot.com',
+    apiKey: 'AIzaSyCGBPnhUUakAdifkjCYxyYXSr_k4599zho',
+    appId: '1:315148119581:web:1f8759a4db211eb584a0f4',
+    messagingSenderId: '315148119581',
+    projectId: 'streamflare-67e84',
+    authDomain: 'streamflare-67e84.firebaseapp.com',
+    storageBucket: 'streamflare-67e84.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB76QuGT15sDXy2mJnVDyBCD_EIOFXvsAU',
-    appId: '1:138538513021:android:a529543b1bcb4409cb7714',
-    messagingSenderId: '138538513021',
-    projectId: 'flutter-webrtc-83131',
-    storageBucket: 'flutter-webrtc-83131.appspot.com',
+    apiKey: 'AIzaSyCqg7qxU0dRoV7V1vJzpAGZGgm3ka3IcBg',
+    appId: '1:315148119581:android:ba846318d39fc97784a0f4',
+    messagingSenderId: '315148119581',
+    projectId: 'streamflare-67e84',
+    storageBucket: 'streamflare-67e84.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA4cfLIkfZARDbNIPQbbLbnuHT2x9U8gpA',
-    appId: '1:138538513021:ios:3e8ada30d0d9d03ccb7714',
-    messagingSenderId: '138538513021',
-    projectId: 'flutter-webrtc-83131',
-    storageBucket: 'flutter-webrtc-83131.appspot.com',
+    apiKey: 'AIzaSyCQbUHfI-60qStSZOmzk62I--5GmhjN74I',
+    appId: '1:315148119581:ios:c5cb778f4049a22484a0f4',
+    messagingSenderId: '315148119581',
+    projectId: 'streamflare-67e84',
+    storageBucket: 'streamflare-67e84.appspot.com',
     iosBundleId: 'dev.flutterexplained.webrtc',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA4cfLIkfZARDbNIPQbbLbnuHT2x9U8gpA',
-    appId: '1:138538513021:ios:3fd8a484b10406d6cb7714',
-    messagingSenderId: '138538513021',
-    projectId: 'flutter-webrtc-83131',
-    storageBucket: 'flutter-webrtc-83131.appspot.com',
+    apiKey: 'AIzaSyCQbUHfI-60qStSZOmzk62I--5GmhjN74I',
+    appId: '1:315148119581:ios:64b71af91311f8ad84a0f4',
+    messagingSenderId: '315148119581',
+    projectId: 'streamflare-67e84',
+    storageBucket: 'streamflare-67e84.appspot.com',
     iosBundleId: 'dev.flutterexplained.webrtcTutorial',
   );
 }
